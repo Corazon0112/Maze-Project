@@ -1,6 +1,10 @@
 # Maze Game
+![Screenshot (42)](https://github.com/Corazon0112/Maze-Project/assets/92594865/ba4bed1f-482a-47a0-8dab-429ae713f5ab)
+
 ![Screenshot (36)](https://github.com/Corazon0112/Maze-Project/assets/92594865/c6ea0e11-1c09-4d38-a8e0-00f5210540b3)
+
 This is a simple maze game built using Java Swing's JPanel and graphics libraries. The game features a maze that can switch between 2D and 3D views and the player must navigate through to reach the end.
+
 ![Screenshot (40)](https://github.com/Corazon0112/Maze-Project/assets/92594865/15f8dc8c-cc72-4adc-91ad-05eb0b1ea090)
 ## Features:
 The program uses JPanel to generate a maze from a txt file where "#" are walls, "E" is the starting point, and "F" is the finish line.
